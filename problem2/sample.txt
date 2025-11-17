@@ -1,0 +1,6 @@
+This is a test file for concurrent TCP server.
+Line 1: Hello from the server!
+Line 2: This file will be sent in chunks.
+Line 3: Each chunk is 1000 bytes max.
+Line 4: After each flush, server sleeps 200ms.
+Line 5: End of file. Thank you!
